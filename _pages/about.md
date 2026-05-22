@@ -14,7 +14,7 @@ UK health sector, with a particular focus on the NHS.
 
 My work explores how game-based methodologies and AI can be used to engage 
 stakeholders, model complex energy decision-making, and accelerate net-zero 
-transitions in healthcare buildings and infrastructure.
+transitions in healthcare.
 
 Alongside my PhD, I work as a Principal Energy Consultant with a background 
 in data science and mathematics, bringing over a decade of industry experience 
@@ -28,7 +28,8 @@ to my academic research.
 
 ## Education
 - **PhD, Built Environment** — University of Wolverhampton *(in progress)*
-- *(Add your previous degrees here)*
+- **MSc, Data Science** — Loughborough University
+- **BSc, Mathematics and Data Analytics** — Coventry University
 
 ## Contact
 Feel free to reach out via email or connect with me on LinkedIn.
