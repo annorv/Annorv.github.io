@@ -23,7 +23,7 @@ repository               : "annorv/annorv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/veronica-headshot.png"
+  avatar           : "/images/Veronica.png"
   name             :  "Veronica Annor"
   pronouns         : # example: "she/her"  
   bio              : "PhD Researcher in the Built Environment, Data Scientist and Energy Consultant"
