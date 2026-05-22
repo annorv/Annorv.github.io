@@ -17,7 +17,7 @@ stakeholders, model complex energy decision-making, and accelerate net-zero
 transitions in healthcare.
 
 Alongside my PhD, I work as a Principal Energy Consultant with a background 
-in data science and mathematics, bringing over a decade of industry experience 
+in data science and mathematics, bringing over 5 years industry experience 
 to my academic research.
 
 ## Research Interests
@@ -27,9 +27,9 @@ to my academic research.
 - Healthcare estates and NHS sustainability
 
 ## Education
-- **PhD, Built Environment** — University of Wolverhampton *(in progress)*
-- **MSc, Data Science** — Loughborough University
-- **BSc, Mathematics and Data Analytics** — Coventry University
+- **PhD, Built Environment** - University of Wolverhampton *(in progress)*
+- **MSc, Data Science** - Loughborough University
+- **BSc, Mathematics and Data Analytics** - Coventry University
 
 ## Contact
 Feel free to reach out via email or connect with me on LinkedIn.
